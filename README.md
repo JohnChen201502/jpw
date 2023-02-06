@@ -1,5 +1,3 @@
-
-<br>
 <br>
 <div id="home"></div>
 <br>
