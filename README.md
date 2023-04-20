@@ -7,7 +7,7 @@
 <div style="width:100%;background-color:#eee;"><a href="https://4r24df.daoli.shop/62" target="_self"><img src="https://github.com/JohnChen201502/jinpian/blob/master/git-ganjing.jpg?raw=true"/></a></div>
 </br>
 
-<div style="width:100%;background-color:#eee;"><a href="https://jw513.website/" target="_self"><img src="https://github.com/JohnChen201502/jinpian/blob/master/git-jinpian.jpg?raw=true"/></a></div>
+<div style="width:100%;background-color:#eee;"><a href="https://jb.z513.online/" target="_self"><img src="https://github.com/JohnChen201502/jinpian/blob/master/git-jinpian.jpg?raw=true"/></a></div>
 
 </br>
 
