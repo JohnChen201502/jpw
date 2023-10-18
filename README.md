@@ -2,11 +2,11 @@
 <div id="home"></div>
 <br>
 
-请点击访问：<span><a href="https://tc.b513.store">天潮信使</a>｜<span><a href="https://jp.b513.store/" target="_self">中国禁片</a></span>
+请点击访问：<span><a href="https://tc.c888.store">天潮信使</a>｜<span><a href="https://jp.c888.store" target="_self">中国禁片</a></span>
 
 </br>
 
-<div style="width:100%;background-color:#eee;"><a href="https://jp.b513.online/" target="_self"><img src="https://github.com/JohnChen201502/jinpian/blob/master/git-jinpian.jpg?raw=true"/></a></div>
+<div style="width:100%;background-color:#eee;"><a href="https://jp.c888.store" target="_self"><img src="https://github.com/JohnChen201502/jinpian/blob/master/git-jinpian.jpg?raw=true"/></a></div>
 
 </br>
 
